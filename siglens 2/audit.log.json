@@ -1,0 +1,13 @@
+[ {
+  "username" : "Aadhitya",
+  "actionString" : "User logged in",
+  "epochTimestampSec" : 16666,
+  "orgId" : 12345,
+  "extraMsg" : "User logged in successfully"
+}, {
+  "username" : "Alagappan",
+  "actionString" : "User deleted index",
+  "epochTimestampSec" : 18666,
+  "orgId" : 23443,
+  "extraMsg" : "User deleted successfully"
+} ]
